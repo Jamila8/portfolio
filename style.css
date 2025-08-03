@@ -1,0 +1,32 @@
+
+Body {
+Font-family: Arial;
+Margin: 0;
+Padding: 0;
+Background: #f0f0f0; 
+Color: #333;
+}
+.container {
+Max-width: 500px;
+Heigth: 800px;
+Margin: auto;
+Padding: 4px;
+Background: white;
+Box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+H1 {
+Text-align: center;
+}
+Img {
+Width: 200px;
+Border-radius: 50%;
+Display: block;
+Margin: 20px auto; 
+}
+P {
+Line-height: 1.6; 
+}
+.contact {
+Text-align: center;
+Margin-top: 30px;
+}
